@@ -1,0 +1,22 @@
+{
+  "model": "HistGradientBoostingRegressor (Poisson)",
+  "features": [
+    "lag_1",
+    "lag_2",
+    "lag_4",
+    "lag_13",
+    "lag_52",
+    "roll_4",
+    "roll_13",
+    "week_sin",
+    "week_cos",
+    "month",
+    "promo_flag"
+  ],
+  "horizon_weeks": 8,
+  "backtest_folds": 3,
+  "mean_model_wape": 0.14442305129165925,
+  "mean_baseline_wape": 0.23171411071333373,
+  "model_beats_baseline": true,
+  "mean_bias": -0.0029657871805187697
+}

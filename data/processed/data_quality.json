@@ -1,0 +1,9 @@
+{
+  "sales_rows_raw":138578,
+  "sales_duplicates_removed":207,
+  "sku_duplicates_removed":1,
+  "inventory_duplicates_removed":1,
+  "unit_price_missing_filled":553,
+  "revenue_missing_filled":276,
+  "reorder_point_missing_filled":59
+}
